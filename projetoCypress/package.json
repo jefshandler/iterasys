@@ -1,0 +1,17 @@
+{
+  "name": "projetocypress",
+  "packageManager": "yarn@3.2.2",
+  "description": "cypress",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^10.4.0",
+    "eslint": "^8.22.0",
+    "eslint-plugin-cypress": "^2.12.1"
+  }
+}
